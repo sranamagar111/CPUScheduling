@@ -13,10 +13,6 @@ class CPUSchedule{
             f1.fcfs();
         }
 
-        void sjfP(){
-
-        }
-
         void sjfNP(){
             NonPreemptiveSJF s1;
             s1.nonPreemptiveSJF();
